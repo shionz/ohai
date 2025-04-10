@@ -1,6 +1,6 @@
 # ohai
 
-Yehnah or nahyeh? kkk.
+Yehnah or nahyeh? kk.
 
 ## Setup
 
